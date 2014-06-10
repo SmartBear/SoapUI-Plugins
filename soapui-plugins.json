@@ -4,7 +4,7 @@
         "name" : "API Blueprint Plugin",
         "version" : "0.1",
         "description" : "Provides API Blueprint import/export functionality for REST APIs",
-        "url" : "https://github.com/smartbear/Soapui-Plugins/soapui-blueprint-plugin-1.0-dist.jar",
+        "url" : "https://github.com/smartbear/Soapui-Plugins/raw/master/soapui-blueprint-plugin-1.0-dist.jar",
         "infoUrl" : "https://github.com/olensmar/soapui-blueprint-plugin"
     },
     {
@@ -12,7 +12,7 @@
         "name" : "Swagger Plugin",
         "version" : "0.4",
         "description" : "Provides Swagger import/export functionality for REST APIs",
-        "url" : "https://github.com/smartbear/Soapui-Plugins/soapui-swagger-plugin-0.4-dist.jar",
+        "url" : "https://github.com/smartbear/Soapui-Plugins/raw/master/soapui-swagger-plugin-0.4-dist.jar",
         "infoUrl" : "https://github.com/olensmar/soapui-swagger-plugin"
     },
     {
@@ -20,7 +20,7 @@
         "name" : "RAML Plugin",
         "version" : "1.0",
         "description" : "Provides RAML import/export functionality for REST APIs",
-        "url" : "https://github.com/smartbear/Soapui-Plugins/soapui-raml-plugin-0.5-dist.jar",
+        "url" : "https://github.com/smartbear/Soapui-Plugins/raw/master/soapui-raml-plugin-0.5-dist.jar",
         "infoUrl" : "https://github.com/olensmar/soapui-raml-plugin"
     },
     {
@@ -28,7 +28,7 @@
         "name" : "Groovy Console Plugin",
         "version" : "1.1",
         "description" : "Provides an interactive console for running arbitrary Groovy scripts",
-        "url" : "https://github.com/smartbear/Soapui-Plugins/soapui-groovy-console-plugin-1.1-dist.jar",
+        "url" : "https://github.com/smartbear/Soapui-Plugins/raw/master/soapui-groovy-console-plugin-1.1-dist.jar",
         "infoUrl" : "https://github.com/olensmar/soapui-groovy-console-plugin"
     }
 ]
